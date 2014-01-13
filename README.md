@@ -1,9 +1,11 @@
 p2psearch
 =========
 
-p2psearch is a decentralized, anonymous, fully browser-based peer-to-peer search engine. The goal is to create a simple browser plugin that anyone with basic computer skills can install and use to perform searches through a decentralized search engine -- i.e. something that is not controlled by a large corporation that collaborates with intelligence/police agencies, stores/sells our private data, and manipulates/censors search results.
+p2psearch is a decentralized, anonymous, fully browser-based peer-to-peer search engine. 
 
-Here's an excerpt the original discussion on the <a href="https://cpunks.org/">cypherpunks mailing list</a> that motivated this software:
+The goal is to create a simple browser plugin that anyone with basic computer skills can install and use to perform searches through a decentralized search engine, as an alternative to corporate search engines that collaborate with intelligence/police agencies, store/sell our private data, and manipulate/censor search results.
+
+Here's an excerpt <a href="https://cpunks.org//pipermail/cypherpunks/2013-December/002666.html">the original discussion</a> on the <a href="https://cpunks.org/">cypherpunks mailing list</a> that motivated this software:
 
 >*Recently there has been a lot of focus on the importance of developing more secure alternatives to email, instant messaging, browsing, etc. ... but I've seen very little focus on the need for development of alternatives to corporate search engines.*
 
@@ -38,5 +40,7 @@ So with that in mind, here's some hand-waving regarding what I want to do (proba
         * How could this be used to break anonymity? 
       * What if we defaulted to hosting the index of the super-peer we bootstrapped through, instead?
     * can be customized by users who want to specify other sites to index
+  * Anonymization ...
+  * Search algorithms ...
 * Wordpress plugin for stable super-peer nodes that can be used to bootstrap WebRTC clients
   * These are also nodes in the overlay ... they also maintain an index and respond to queries using same protocol as normal nodes
