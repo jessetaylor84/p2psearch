@@ -1,8 +1,6 @@
 p2psearch
 =========
 
-(NOTE: This is just a draft that I'm putting up in the hopes that someone else will see this and start working on it sooner ... I picked a very generic name as well, which will likely change once I get started coding ...)
-
 p2psearch is a decentralized, anonymous, fully browser-based peer-to-peer search engine. 
 
 The goal is to create a simple browser plugin that anyone with basic computer skills can install and use to perform searches through a decentralized search engine, as an alternative to corporate search engines that collaborate with intelligence/police agencies, store/sell our private data, and manipulate/censor search results.
@@ -47,3 +45,8 @@ So with that in mind, here's some hand-waving regarding what I want to do (proba
   * Search algorithms ...
 * Wordpress plugin for stable super-peer nodes that can be used to bootstrap WebRTC clients
   * These are also nodes in the overlay ... they also maintain an index and respond to queries using same protocol as normal nodes
+
+=============
+
+
+**(NOTE: This is just a draft project that I'm putting up in the hopes that someone else will see this and start working on it sooner ... I picked a very generic name as well, which will likely change once I get started coding ...)**
